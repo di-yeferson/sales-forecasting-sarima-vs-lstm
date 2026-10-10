@@ -48,7 +48,3 @@ Python · Pandas · NumPy · Matplotlib · Statsmodels · pmdarima · Prophet ·
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Abre `notebooks/sales_forecasting.ipynb` en Jupyter o Google Colab.
 
----
-**Diego Yeferson Quispe Huamani** · Estudiante de Big Data y Ciencia de Datos – Tecsup
-Proyecto desarrollado en el curso Big Data Analytics Avanzado.
-[LinkedIn](https://www.linkedin.com/in/di-yeferson) · [GitHub](https://github.com/di-yeferson)
