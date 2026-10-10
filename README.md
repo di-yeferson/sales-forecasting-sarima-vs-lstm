@@ -33,11 +33,11 @@ Python · Pandas · NumPy · Matplotlib · Statsmodels · pmdarima · Prophet ·
 
 ## Estructura
 ```
-├── data/raw/               # dataset (descargar de Kaggle)
+├── data/raw/             
 ├── notebooks/
 │   └── sales_forecasting.ipynb
 ├── reports/
-│   ├── figures/            # gráficos del análisis
+│   ├── figures/            
 │   ├── model_comparison.csv
 │   └── forecast_2018.csv
 └── requirements.txt
